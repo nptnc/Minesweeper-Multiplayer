@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Small Penis/source/repos/Minesweeper/Minesweeper/Content/minesweeperbackground.png","C:/Users/Small Penis/source/repos/Minesweeper/Minesweeper/Content/bin/Windows/minesweeperbackground.xnb","TextureProcessor","Texture2DContent",751,631549,0.11182
+"C:/Users/Small Penis/source/repos/Minesweeper/Minesweeper/Content/mouse.png","C:/Users/Small Penis/source/repos/Minesweeper/Minesweeper/Content/bin/Windows/mouse.xnb","TextureProcessor","Texture2DContent",20705,15379285,0.2547376
+"C:/Users/Small Penis/source/repos/Minesweeper/Minesweeper/Content/text.spritefont","C:/Users/Small Penis/source/repos/Minesweeper/Minesweeper/Content/bin/Windows/text.xnb","FontDescriptionProcessor","SpriteFontContent",2074,13343,0.0764843
+"C:/Users/Small Penis/source/repos/Minesweeper/Minesweeper/Content/winxpskin.png","C:/Users/Small Penis/source/repos/Minesweeper/Minesweeper/Content/bin/Windows/winxpskin.xnb","TextureProcessor","Texture2DContent",3078,70357,0.0032515

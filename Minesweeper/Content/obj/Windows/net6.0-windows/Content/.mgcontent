@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Small Penis/source/repos/Minesweeper/Minesweeper/Content/minesweeperbackground.png</File>
+    <File>C:/Users/Small Penis/source/repos/Minesweeper/Minesweeper/Content/mouse.png</File>
+    <File>C:/Users/Small Penis/source/repos/Minesweeper/Minesweeper/Content/text.spritefont</File>
+    <File>C:/Users/Small Penis/source/repos/Minesweeper/Minesweeper/Content/winxpskin.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
