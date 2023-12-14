@@ -299,7 +299,7 @@ namespace Minesweeper {
 
             smile = TextureHelper.SubTexture(skin, _graphics.GraphicsDevice, new Rectangle(0, 55, 26, 26));
             smileshock = TextureHelper.SubTexture(skin, _graphics.GraphicsDevice, new Rectangle(27, 55, 26, 26));
-            smilewon = TextureHelper.SubTexture(skin, _graphics.GraphicsDevice, new Rectangle(27, 55, 26, 26));
+            smilewon = TextureHelper.SubTexture(skin, _graphics.GraphicsDevice, new Rectangle(81, 55, 26, 26));
             smiledead = TextureHelper.SubTexture(skin, _graphics.GraphicsDevice, new Rectangle(54, 55, 26, 26));
             smileheld = TextureHelper.SubTexture(skin, _graphics.GraphicsDevice, new Rectangle(108, 55, 26, 26));
 
